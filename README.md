@@ -1,3 +1,3 @@
 # apnacollegedemo
-this is my first git repository 
-author-isha jangra
+this is my first git repository . 
+<br>thor-isha jangra
